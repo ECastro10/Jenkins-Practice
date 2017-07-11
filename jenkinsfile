@@ -1,5 +1,5 @@
 
-Jenkinsfile (Declarative Pipeline)
+echo "hello from pipety!"
 
 pipeline {
     agent { docker 'python:3.5.1' }
